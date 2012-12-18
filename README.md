@@ -60,4 +60,6 @@ Misc
 Good parts
 
 Problems
+
  - does not discuss how to *create* visualizations
+ - Mapping (u) are 1-1 and invertible &rarr;  No aggregation before mapping
